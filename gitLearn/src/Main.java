@@ -9,7 +9,7 @@ public class Main {
         System.out.println("zmiana 1");
         System.out.println("zmiana master");
         System.out.println("zmiana w myClone");
-
+        System.out.println("gvdfkhgufd");
 
     }
         }
