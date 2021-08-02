@@ -8,5 +8,10 @@ public class MainSuperKonstruktor {
 
         KlasaRozszerzona klasaRozszerzona = new KlasaRozszerzona();
         //KlasaPodstawowa klasaPodstawowa = new KlasaPodstawowa(1);  zamiast obiektu super(101);
+
+
+        System.out.println("fdcgshftyehws");
+
+
     }
 }
