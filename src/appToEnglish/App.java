@@ -13,6 +13,7 @@ public class App {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Wpisz słowo: ");
+        System.out.println("ghfdgsdjgf");
         word = scanner.nextLine();
     }
 
